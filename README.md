@@ -12,6 +12,7 @@ This project converts two different telemetry data formats into a unified struct
 ## How to Run
 ```bash
 python main.py
+
 Tech Used
 Python
 JSON processing
